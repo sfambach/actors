@@ -1,8 +1,4 @@
-# Actors and Power Converters
-To drive the world with you micro controllers you need actors, the ones I tested will come into this project.
+# Solid State Relay Boards
+There are several board on the market with this solid state relays. Solid state means that you push the relay in one state (open/closed) and it keeps this position without consuming any current.
 
-Actors:
-* Solid State Relay Boards
 
-Power Supply
-* Voltage Converter XL4015 DC-DC Step Down Module 5A 8V-36V to 1.25V-32V
